@@ -4,7 +4,7 @@
 - 📫 How to reach me: you have to follow this two steps:
 <ol><ol><ol>
               - first_steep = "Scream my name very loud." <br>
-              - If (firstStep !first_steep): <br> 
+              - If (firstStep != first_steep): <br> 
 <ol>
               print("wait untill death, we'll find eachother in the other life")
 
