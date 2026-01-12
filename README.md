@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sianland
 - 👀 I’m interested in reventar código full 24/7
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on everyone who likes javascript
+- 🌱 I’m currently learning python
 - 📫 How to reach me: you've to follow this two steps:
 <ol><ol><ol>
               - Scream my name very loud. <br>
