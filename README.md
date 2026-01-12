@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @sianland
 - 👀 I’m interested in reventar código full 24/7
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning python
 - 📫 How to reach me: you've to follow this two steps:
 <ol><ol><ol>
-              - Scream my name very loud. <br>
-              - If (firstStep !work) { wait untill death, we find eachother in the other life}
+              - first_steep = "Scream my name very loud." <br>
+              - If (firstStep !first_steep): <br> 
+<ol>
+              print("wait untill death, we find eachother in the other life")
 
 <!---
 sianland/sianland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
