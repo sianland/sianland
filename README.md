@@ -6,7 +6,7 @@
               - first_steep = "Scream my name very loud." <br>
               - If (firstStep !first_steep): <br> 
 <ol>
-              print("wait untill death, we find eachother in the other life")
+              print("wait untill death, we'll find eachother in the other life")
 
 <!---
 sianland/sianland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
